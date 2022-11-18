@@ -1,0 +1,39 @@
+html {
+    font-family: 'Lobster', cursive;
+    background-color: rgb(243, 222, 32);
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+}
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+   
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(247, 242, 197);
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+}
+img{
+   display: block;
+   margin: 0 auto;
+   width: 90%; 
+}
+a {
+    font-size: 40px;
+}
+.myclass{
+    font-size: 25px;
+    color: rebeccapurple;
+}
+.classimg{
+    width: 50%;
+}
